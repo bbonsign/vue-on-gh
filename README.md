@@ -1,5 +1,5 @@
 # smaple
-
+Deployed using GitHub Pages: https://bbonsign.github.io/vue-on-gh/
 ## Project setup
 ```
 npm install
